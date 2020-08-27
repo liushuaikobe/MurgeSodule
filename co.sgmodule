@@ -1,3 +1,6 @@
+#!name=奋斗比
+#!desc=修福报
+
 [Rule]
 DOMAIN-KEYWORD,alibaba,DIRECT
 DOMAIN-KEYWORD,alicdn,DIRECT
